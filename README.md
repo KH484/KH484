@@ -1,5 +1,5 @@
 # 💫 About Me:
-Junior Full Stack Web Developer with a passion for problem-solving and creating practical solutions <br>that make a difference. I love the challenge of coding and am fascinated <br>by how technology touches every aspect of our lives. <br>My creative background as a performer and teacher has honed my skills<br>in communication, teamwork, analysis and creative problem-solving<br>so I can bring a unique and creative perspective to my tech and design projects.<br><br>Student @LeWagon Web Development Bootcamp<br><br>Connect with me: www.linkedin.com/in/katherineheard<br><br>#OpenToWork
+Junior Full Stack Web Developer with a passion for problem-solving and creating practical solutions that make a difference. I love the challenge of coding and am fascinated <br>by how technology touches every aspect of our lives. <br><br>My creative background as a performer and teacher has honed my skills in communication, teamwork, analysis and creative problem-solving so I can bring a unique and creative perspective to my tech and design projects.<br><br>Student @LeWagon Web Development Bootcamp | Connect with me: www.linkedin.com/in/katherineheard<br><br>#OpenToWork
 
 
 ## 🌐 Socials:
@@ -13,12 +13,10 @@ Junior Full Stack Web Developer with a passion for problem-solving and creating 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KH484&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=KH484&limit=5&theme=cobalt&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=KH484&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=KH484&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=KH484&icon=0&color=9)](https://visitcount.itsvg.in)
