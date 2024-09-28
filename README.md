@@ -1,5 +1,5 @@
 # 💫 About Me:
-Junior Full Stack Web Developer with a passion for problem-solving and creating practical solutions that make a difference. I love the challenge of coding and am fascinated <br>by how technology touches every aspect of our lives. <br><br>My creative background as a performer and teacher has honed my skills in communication, teamwork, analysis and creative problem-solving so I can bring a unique and creative perspective to my tech and design projects.<br><br>Student @LeWagon Web Development Bootcamp | Connect with me: www.linkedin.com/in/katherineheard<br><br>#OpenToWork
+Junior Full Stack Web Developer with a passion for problem-solving and creating practical solutions that make a difference. I love the challenge of coding and am fascinated by how technology touches every aspect of our lives. <br><br>My creative background as a performer and teacher has honed my skills in communication, teamwork, analysis and creative problem-solving so I can bring a unique and creative perspective to my tech and design projects.<br><br>Student @LeWagon Web Development Bootcamp | Connect with me: www.linkedin.com/in/katherineheard<br><br>#OpenToWork
 
 
 ## 🌐 Socials:
